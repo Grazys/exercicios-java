@@ -1,18 +1,16 @@
-## Getting Started
+## Exercicios em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1) Calcule as 4 operações básicas: soma, subtração, multiplicação e divisão. Sempre 2 valores devem ser repassados.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+2) A partir da hora di dia, informe a mensagem adequada: Bom dia, boa tarde e boa noite.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+3) Calcule o valor final  de um empréstimo, a partir do valor solicitado. Taxas e parcelas influenciam. Defina arbitrariamente as faixas que influenciam nos valores.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+> Esta atividade foi realizada no curso da Dio de Java.
+Espero que todos aproveitem essa oportunidade e também tentem resolver o problema. 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+Grazi Armond
